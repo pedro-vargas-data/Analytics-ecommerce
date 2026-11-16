@@ -31,7 +31,7 @@ Este proyecto aborda todo el ciclo analítico: desde la limpieza de datos y elim
 * **`Notebooks/Data_cleaning_ecommerce.ipynb`** — Script de Python con el pipeline ETL completo y auditoría de datos.
 * **`Reports/Executive Report.pdf`** — Reporte ejecutivo completo listo para descargar.
 * **`Outputs/executive_dashboard.png`** — Captura visual del tablero en Excel.
-* **`README.md`** — Documentación principal del proyecto.
+* **`Readme.md`** — Documentación principal del proyecto.
 
 ---
 
