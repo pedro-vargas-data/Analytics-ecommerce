@@ -62,11 +62,11 @@ El análisis trimestral demuestra una aceleración drástica hacia el cierre de 
 ## 💡 6. Propuestas Estratégicas para la Conversión de Guest a Member
 
 1. **Incentivo de Registro en el Checkout (Impacto Alto / Esfuerzo Bajo):** 
-   * Ofrecer un beneficio inmediato (ej. envío gratis en la primera compra o 10% de descuento acumulable) a cambio de completar el registro de cuenta antes de finalizar el pago.
+   Ofrecer un beneficio inmediato (ej. envío gratis en la primera compra o 10% de descuento acumulable) a cambio de completar el registro de cuenta antes de finalizar el pago.
 2. **Post-Purchase Conversion Campaign (Impacto Alto / Esfuerzo Medio):** 
-   * Automatizar correos transaccionales post-compra dirigidos a clientes *Guest*, destacando el seguimiento de su pedido en tiempo real mediante la creación de una cuenta en la plataforma.
+   Automatizar correos transaccionales post-compra dirigidos a clientes *Guest*, destacando el seguimiento de su pedido en tiempo real mediante la creación de una cuenta en la plataforma.
 3. **Programa de Lealtad por Tiers (Impacto Medio / Esfuerzo Alto):** 
-   * Diseñar beneficios exclusivos para miembros registrados (acceso anticipado a inventario de alta rotación y acumulación de puntos), reduciendo gradualmente la fricción de registrarse.
+   Diseñar beneficios exclusivos para miembros registrados (acceso anticipado a inventario de alta rotación y acumulación de puntos), reduciendo gradualmente la fricción de registrarse.
 
 ---
 
