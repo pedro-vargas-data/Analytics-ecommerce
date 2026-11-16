@@ -75,5 +75,5 @@ El análisis trimestral demuestra una aceleración drástica hacia el cierre de 
 ```bash
 git clone https://github.com/pedro-vargas-data/Analytics-ecommerce.git
 cd analytics-ecommerce
-
-Desarrollado por Pedro Vargas Salgado | www.linkedin.com/in/pedrovargas-data-mba
+```
+##Desarrollado por Pedro Vargas Salgado | www.linkedin.com/in/pedrovargas-data-mba
