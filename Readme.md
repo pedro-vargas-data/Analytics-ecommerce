@@ -27,9 +27,9 @@ Este proyecto aborda todo el ciclo analítico: desde la limpieza de datos y elim
 
 ## 📂 3. Estructura del Repositorio
 
-* **`data/ecommerce_sample_github.csv`** — Muestra estratificada (1,073 registros) del dataset procesado (`cleaned_Ecommerce_v2.csv`, 541,909 registros totales).
-* **`notebooks/Data_cleaning_ecommerce.ipynb`** — Script de Python con el pipeline ETL completo y auditoría de datos.
-* **`reports/Executive Report.pdf`** — Reporte ejecutivo completo listo para descargar.
+* **`Data/ecommerce_sample_github.csv`** — Muestra estratificada (1,073 registros) del dataset procesado (`cleaned_Ecommerce_v2.csv`, 541,909 registros totales).
+* **`Notebooks/Data_cleaning_ecommerce.ipynb`** — Script de Python con el pipeline ETL completo y auditoría de datos.
+* **`Reports/Executive Report.pdf`** — Reporte ejecutivo completo listo para descargar.
 * **`Outputs/executive_dashboard.png`** — Captura visual del tablero en Excel.
 * **`README.md`** — Documentación principal del proyecto.
 
